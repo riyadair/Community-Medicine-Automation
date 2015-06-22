@@ -1,0 +1,18 @@
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll.config
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.pdb
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.csprojResolveAssemblyReference.cache
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.dll
+E:\Net\Riyad\Asp.net\Project Importent\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.pdb
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll.config
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.pdb
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.dll
+C:\Users\Web App Develop .Net\Desktop\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.pdb
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll.config
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.pdb
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.csprojResolveAssemblyReference.cache
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.dll
+D:\DOT NET\Asp.Net\Importent Project\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.pdb
