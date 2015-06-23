@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Web;
 using CommunityMedicineAutomation.DAL;
@@ -28,6 +29,11 @@ namespace CommunityMedicineAutomation.BLL
                 centerGateway.SaveCenter(aCenter);
             }
             return message;
+        }
+
+        public DataTable GetAllCenterById(int id)
+        {
+            return centerGateway.GetAllCenterById(id);
         }
     }
 }

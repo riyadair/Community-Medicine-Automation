@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
@@ -40,6 +41,18 @@ namespace CommunityMedicineAutomation.DAL
             reader.Close();
             connection.Close();
             return isCenterNameExist;
+        }
+
+        public DataTable GetAllCenterById(int id)
+        {
+            string query = string.Format("SELECT * FROM tbl_centre WHERE thana_Id='{0}'",id);
+            SqlConnection connection = new SqlConnection(connectionString);
+            SqlDataAdapter adapter = new SqlDataAdapter(query,connection);
+            connection.Open();
+            DataTable data = new DataTable();
+            adapter.Fill(data);
+            connection.Close();
+            return data;
         }
     }
 }

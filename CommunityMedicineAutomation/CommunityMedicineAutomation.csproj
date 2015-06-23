@@ -68,6 +68,7 @@
     <Content Include="UI\CenterEnrtyUI.aspx" />
     <Content Include="UI\DiseaseEntryUI.aspx" />
     <Content Include="UI\MedicineEntryUI.aspx" />
+    <Content Include="UI\SendMedicineUI.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -105,6 +106,13 @@
     </Compile>
     <Compile Include="UI\MedicineEntryUI.aspx.designer.cs">
       <DependentUpon>MedicineEntryUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SendMedicineUI.aspx.cs">
+      <DependentUpon>SendMedicineUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\SendMedicineUI.aspx.designer.cs">
+      <DependentUpon>SendMedicineUI.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup />
